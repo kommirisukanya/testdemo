@@ -3,6 +3,6 @@
  */
 public class HelloWorld {
   public static void main(String[] args) {
-    System.out.println("Hello, Welcome to jenkins DashBoard");
+    System.out.println("Hello, Welcome to World");
   }
 }
